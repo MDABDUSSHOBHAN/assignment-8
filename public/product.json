@@ -1,0 +1,67 @@
+[
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+        "category": "Men's Sneaker",
+        "name": "ULTRABOOST 22 SHOES",
+        "seller": "Addidas",
+        "price": 420,
+        "stock": 20,
+        "ratings": 4,
+        "ratingsCount": 3725,
+        "img": "https://media.istockphoto.com/id/1312495648/vector/vector-design-illustration-abstract-background-futuristic-technology-concept.jpg?s=1024x1024&w=is&k=20&c=yLMNrq_UU7vMcoBdElKTB18ST0EdOeUX0BlsiSsLVSk=",
+        "shipping": 1,
+        "quantity": 0
+    },
+    {
+        "id": "13cbc7ed-a61b-4883-9d42-82d7d8642b86",
+        "category": "Men's Sneaker",
+        "name": "LUNAR NEW YEAR ULTRABOOST DNA SHOES",
+        "seller": "Addidas",
+        "price": 196,
+        "stock": 19,
+        "ratings": 5,
+        "ratingsCount": 4355,
+        "img": "https://media.istockphoto.com/id/1454015565/photo/neon-stock-market-graph-with-a-world-map-background-business-economy-financial-services-and.jpg?s=1024x1024&w=is&k=20&c=TPqtfQphYiRGvAJeWx7O8v8JHws54sw7BJpXRQvro3o=",
+        "shipping": 14,
+        "quantity": 0
+    },
+    {
+        "id": "307f166f-1d04-4573-bc37-2f461ea9d4f7",
+        "category": "Men's Sneaker",
+        "name": "SUPERNOVA SHOES",
+        "seller": "Addidas",
+        "price": 245,
+        "stock": 20,
+        "ratings": 4,
+        "ratingsCount": 3972,
+        "img": "https://media.istockphoto.com/id/1332804486/vector/stock-market-background-or-forex-trading-business-graph-chart-for-financial-investment.jpg?s=1024x1024&w=is&k=20&c=oA_Lar_qq3gIfnpp9mIoBf_dLIjpMzYN-GfCUybd9mg=",
+        "shipping": 1,
+        "quantity": 0
+    },
+    {
+        "id": "4bf9798f-63bc-4a83-b0c6-6a3b816fe922",
+        "category": "Men's Sneaker",
+        "name": "LITE RACER ADAPT 3.0 SHOES",
+        "seller": "Addidas",
+        "price": 229,
+        "stock": 10,
+        "ratings": 5,
+        "ratingsCount": 1764,
+        "img": "https://media.istockphoto.com/id/470963948/vector/world-globe-infographic-with-icons-and-diagrams.jpg?s=1024x1024&w=is&k=20&c=2LMhFaavtL_GXpVInTNAeJBfDpJIAXeyZbaC4vSwyHk=",
+        "shipping": 32,
+        "quantity": 0
+    },
+    {
+        "id": "9496d72b-04ec-41f8-9bc3-0a7c9697be8e",
+        "category": "Men's Sneaker",
+        "name": "4DFWD SHOES",
+        "seller": "Addidas",
+        "price": 287,
+        "stock": 11,
+        "ratings": 4,
+        "ratingsCount": 799,
+        "img": "https://media.istockphoto.com/id/470963948/vector/world-globe-infographic-with-icons-and-diagrams.jpg?s=1024x1024&w=is&k=20&c=2LMhFaavtL_GXpVInTNAeJBfDpJIAXeyZbaC4vSwyHk=",
+        "shipping": 49,
+        "quantity": 0
+    }
+]

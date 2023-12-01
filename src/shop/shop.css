@@ -1,0 +1,44 @@
+.imgProduct img{
+
+    height: 186px;
+    width: 100vh
+}
+.imgProduct{
+
+   border: 1px solid rebeccapurple;
+  margin-top: 30px;
+  margin-left: 40px;
+   
+  
+}
+.he{
+    margin-top: 0px;
+}
+.conta{
+
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.product_info p{
+    margin: 0px;
+}
+.subcontent{
+
+    display: flex;
+    justify-content: space-between;
+}
+.user img{
+
+    height: 60px;
+    width: 60px;
+}
+.dflex{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.top{
+
+    margin-top: 0px;
+    margin-bottom: 0px;
+}

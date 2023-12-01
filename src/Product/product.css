@@ -1,0 +1,22 @@
+.product{
+
+    /* border: 3px solid saddlebrown;
+    height: 200px;
+    width: 600px;
+    margin-top: 10px;
+    background-color: blueviolet; */
+    display: grid;
+    grid-template-columns: 2fr 2fr;
+
+}
+.resiz{
+
+    
+}
+.t{
+
+    border: 2px solid blueviolet;
+    background-color: bisque;
+    color: blueviolet;
+    padding: 2px;
+}
